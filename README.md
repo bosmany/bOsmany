@@ -1,4 +1,4 @@
-# Bilal
+# Bilal Osmany
 
 DevOps / Platform Engineer building toward AI infrastructure — I design and
 automate the systems that ship and run software: infrastructure as code,
