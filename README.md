@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=700&lines=Infrastructure+as+Code+%7C+Terraform+%2B+Ansible;Kubernetes+%2B+Observability+%28Prometheus%2FGrafana%29;CI%2FCD+Pipelines+%7C+GitHub+Actions;Transformers+%2B+CNNs+%7C+Built+and+Trained+from+Scratch;LLM+Agents+%2B+Multi-Agent+Orchestration;LoRA+Fine-Tuning+%2B+Quantization+%2B+ONNX" alt="Typing SVG" />
 
+&nbsp;
+
+[![Profile views](https://komarev.com/ghpvc/?username=bosmany&label=Profile%20Views&color=2c5364&style=flat)](https://github.com/bosmany)
+[![Email](https://img.shields.io/badge/Email-osmanybilal%40gmail.com-2C5364?logo=gmail&logoColor=white)](mailto:osmanybilal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%40bosmany-181717?logo=github&logoColor=white)](https://github.com/bosmany)
+
 </div>
 
 <br/>
@@ -24,6 +30,17 @@ multiple LLM agents with real concurrency, not just calling an API.
 
 <div align="center">
 
+![Portfolio repos](https://img.shields.io/badge/Portfolio_repos-8-2c5364?style=for-the-badge)
+![Tests passing](https://img.shields.io/badge/Tests_passing-152%2F152-2ea043?style=for-the-badge&logo=pytest&logoColor=white)
+![CI pipelines](https://img.shields.io/badge/CI_pipelines-8%2F8_green-2ea043?style=for-the-badge&logo=githubactions&logoColor=white)
+![Fabricated metrics](https://img.shields.io/badge/Fabricated_metrics-0-2ea043?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### Infrastructure & Cloud
 <img src="https://skillicons.dev/icons?i=terraform,aws,ansible,linux,bash&perline=5" alt="Infrastructure stack" />
 
@@ -32,6 +49,22 @@ multiple LLM agents with real concurrency, not just calling an API.
 
 ### AI / ML
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git&perline=5" alt="AI/ML stack" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bosmany/bosmany/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bosmany/bosmany/output/snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/bosmany/bosmany/output/snake.svg" width="100%" />
+</picture>
+
+<sub>Generated on a 12-hour schedule by <a href="https://github.com/bosmany/bosmany/blob/main/.github/workflows/snake.yml">a GitHub Action in this repo</a> — this page keeps itself up to date the same way the CI in every project below does.</sub>
 
 </div>
 
@@ -167,12 +200,7 @@ custom dashboards and alert rules — validated with `helm lint`,
 
 <br/>
 
-## Get in touch
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-osmanybilal%40gmail.com-2C5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmanybilal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40bosmany-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bosmany)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
 
