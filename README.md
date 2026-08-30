@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bilal&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%2F%20Platform%20Engineer%20%E2%80%94%20building%20toward%20AI%20infrastructure&descAlignY=58&descSize=18" width="100%" alt="Bilal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bilal%20Osmany&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%2F%20Platform%20Engineer%20%E2%80%94%20building%20toward%20AI%20infrastructure&descAlignY=58&descSize=18" width="100%" alt="Bilal Osmany" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=700&lines=Infrastructure+as+Code+%7C+Terraform+%2B+Ansible;Kubernetes+%2B+Observability+%28Prometheus%2FGrafana%29;CI%2FCD+Pipelines+%7C+GitHub+Actions;Transformers+%2B+CNNs+%7C+Built+and+Trained+from+Scratch;LLM+Agents+%2B+Multi-Agent+Orchestration;LoRA+Fine-Tuning+%2B+Quantization+%2B+ONNX" alt="Typing SVG" />
 
